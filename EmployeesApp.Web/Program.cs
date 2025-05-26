@@ -5,13 +5,13 @@ namespace EmployeesApp.Web
 {
     public class Program
     {
-        public static void Main(string[] args)
-        {
+        public static void Main(string[] args) {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
             //builder.Services.AddTransient<EmployeeService>();
             //builder.Services.AddSingleton<EmployeeService>();
             //builder.Services.AddSingleton<IEmployeeService, EmployeeService>();
+            //hi
             builder.Services.AddSingleton<IEmployeeService, OtherEmployeeService>();
             builder.Services.AddScoped<MyLogServiceFilterAttribute>();
             var app = builder.Build();
