@@ -1,0 +1,12 @@
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.AssemblyInfo.cs
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.sourcelink.json
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\bin\Debug\net9.0\EmployeesApp.Domain.deps.json
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\bin\Debug\net9.0\EmployeesApp.Domain.dll
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\bin\Debug\net9.0\EmployeesApp.Domain.pdb
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.dll
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\refint\EmployeesApp.Domain.dll
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\EmployeesApp.Domain.pdb
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Domain\obj\Debug\net9.0\ref\EmployeesApp.Domain.dll

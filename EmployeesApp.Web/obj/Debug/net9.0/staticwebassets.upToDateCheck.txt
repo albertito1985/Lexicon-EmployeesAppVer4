@@ -1,0 +1,6 @@
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Web\wwwroot\Scripts\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Web\wwwroot\Scripts\jquery\jquery.min.js
+C:\Users\Shin-chang\source\repos\EmployeesAppVer4\EmployeesApp.Web\wwwroot\Scripts\jquery-validate\jquery.validate.min.js
+wwwroot\Scripts\jquery\jquery.min.js
+wwwroot\Scripts\jquery-validate\jquery.validate.min.js
+wwwroot\Scripts\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js

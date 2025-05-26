@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4127B29A-1A03-4F99-A97C-A05FDAAD6F8A}|Employees.Application\\Employees.Application.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employees.application\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4127B29A-1A03-4F99-A97C-A05FDAAD6F8A}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA4296-C2E4-4775-BD93-3A15268D83B3}|EmployeesApp.Web\\EmployeesApp.Web.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employeesapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFA4296-C2E4-4775-BD93-3A15268D83B3}|EmployeesApp.Web\\EmployeesApp.Web.csproj|solutionrelative:employeesapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707702D-87F6-4AC6-B48D-EA2D17F38E1D}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employees.infrastructure\\persistance\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B707702D-87F6-4AC6-B48D-EA2D17F38E1D}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\persistance\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707702D-87F6-4AC6-B48D-EA2D17F38E1D}|Employees.Infrastructure\\Employees.Infrastructure.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employees.infrastructure\\persistance\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B707702D-87F6-4AC6-B48D-EA2D17F38E1D}|Employees.Infrastructure\\Employees.Infrastructure.csproj|solutionrelative:employees.infrastructure\\persistance\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA4296-C2E4-4775-BD93-3A15268D83B3}|EmployeesApp.Web\\EmployeesApp.Web.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employeesapp.web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFA4296-C2E4-4775-BD93-3A15268D83B3}|EmployeesApp.Web\\EmployeesApp.Web.csproj|solutionrelative:employeesapp.web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4127B29A-1A03-4F99-A97C-A05FDAAD6F8A}|Employees.Application\\Employees.Application.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employees.application\\otheremployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4127B29A-1A03-4F99-A97C-A05FDAAD6F8A}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\otheremployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4127B29A-1A03-4F99-A97C-A05FDAAD6F8A}|Employees.Application\\Employees.Application.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employees.application\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4127B29A-1A03-4F99-A97C-A05FDAAD6F8A}|Employees.Application\\Employees.Application.csproj|solutionrelative:employees.application\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6C21A-7AA2-4C2A-8AD6-4E11462DC25B}|EmployeesApp.Domain\\EmployeesApp.Domain.csproj|c:\\users\\shin-chang\\source\\repos\\employeesappver4\\employeesapp.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F6C21A-7AA2-4C2A-8AD6-4E11462DC25B}|EmployeesApp.Domain\\EmployeesApp.Domain.csproj|solutionrelative:employeesapp.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Infrastructure\\Persistance\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Persistance\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Infrastructure\\Persistance\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Persistance\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:58:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Infrastructure\\Persistance\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employees.Infrastructure\\Persistance\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Infrastructure\\Persistance\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employees.Infrastructure\\Persistance\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:46:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\EmployeesApp.Web\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeesApp.Web\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\EmployeesApp.Web\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeesApp.Web\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:37:12.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\EmployeesApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\EmployeesApp.Web\\Program.cs",
+              "RelativeToolTip": "EmployeesApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:34:51.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Application\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Application\\IEmployeeService.cs",
+              "RelativeToolTip": "Employees.Application\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:29:55.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\EmployeesApp.Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeesApp.Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\EmployeesApp.Domain\\Employee.cs",
+              "RelativeToolTip": "EmployeesApp.Domain\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:27:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Application\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Application\\EmployeeService.cs*",
+              "RelativeToolTip": "Employees.Application\\EmployeeService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:18:52.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OtherEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Application\\OtherEmployeeService.cs",
+              "RelativeDocumentMoniker": "Employees.Application\\OtherEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Shin-chang\\source\\repos\\EmployeesAppVer4\\Employees.Application\\OtherEmployeeService.cs",
+              "RelativeToolTip": "Employees.Application\\OtherEmployeeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:30:16.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

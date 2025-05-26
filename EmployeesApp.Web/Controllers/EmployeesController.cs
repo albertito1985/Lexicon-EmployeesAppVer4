@@ -1,7 +1,8 @@
 ﻿using EmployeesApp.Web.Models;
-using EmployeesApp.Web.Services;
+using EmployeesApp.Domain;
 using EmployeesApp.Web.Views.Employees;
 using Microsoft.AspNetCore.Mvc;
+using Employees.Application.Employees;
 
 namespace EmployeesApp.Web.Controllers
 {

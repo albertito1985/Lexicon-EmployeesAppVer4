@@ -1,5 +1,6 @@
 using EmployeesApp.Web.Models;
-using EmployeesApp.Web.Services;
+using EmployeesApp.Infrastructure.Persistance.Repositories;
+using Employees.Application.Employees;
 
 namespace EmployeesApp.Web
 {
@@ -8,6 +9,9 @@ namespace EmployeesApp.Web
         public static void Main(string[] args) {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSingleton<IEmployeeRepository, EmployeeRepository>();
+
+
             //builder.Services.AddTransient<EmployeeService>();
             //builder.Services.AddSingleton<EmployeeService>();
             //builder.Services.AddSingleton<IEmployeeService, EmployeeService>();
